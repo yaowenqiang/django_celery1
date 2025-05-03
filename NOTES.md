@@ -14,5 +14,5 @@ Python Celery Implementation
 + Data Processing and analysis
 + API development
 
-
+> celery -A dcelery worker -l INFO
 
